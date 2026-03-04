@@ -11,7 +11,7 @@ I am a **master’s graduate in Cybersecurity** with hands-on experience in SOC 
 - **OT/ICS Security:** SCADA systems, Modbus attacks, LogixPro simulation, firewall design  
 - **Other Tools:** Wireshark, Kali Linux, Windows/Linux forensic analysis
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### **SOC & Network Analysis**
 - <a href="https://github.com/DurgaRamireddy/Security-Onion-Lab">Security Onion Lab </a> – Network monitoring, IDS setup, and pcap analysis using Zeek and Suricata.  
