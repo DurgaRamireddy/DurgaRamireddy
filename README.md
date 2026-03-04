@@ -16,7 +16,7 @@ I am a **master’s graduate in Cybersecurity** with hands-on experience in SOC 
 ### **SOC & Network Analysis**
 - <a href="https://github.com/DurgaRamireddy/Security-Onion-Lab">Security Onion Lab </a> – Network monitoring, IDS setup, and pcap analysis using Zeek and Suricata.  
 - <a href="https://github.com/DurgaRamireddy/PowerShell-LotL-Investigation-Lab">PowerShell Lotl Investigaton Lab </a> – Host-based attack investigation, persistence analysis, and IOCs.  
-- **[Vulnerable Web Server Traffic Lab](#)** – Malicious traffic analysis and remediation recommendations using Kibana.  
+- <a href="https://github.com/DurgaRamireddy/Vulnerable-Web-Server-Traffic-Analysis-Lab">Vulnerable Web Server Traffic Analysis Lab </a> – Malicious traffic analysis and remediation recommendations using Kibana.  
 
 ### **Threat Intelligence**
 - **[APT40 / Sandworm Case Study](#)** – Threat intelligence research, attack reconstruction, MITRE ATT&CK mapping, and TTP analysis.  
