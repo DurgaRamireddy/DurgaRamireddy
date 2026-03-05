@@ -22,7 +22,7 @@ I am a **master’s graduate in Cybersecurity** with hands-on experience in SOC 
 - <a href="https://github.com/DurgaRamireddy/Sandworm-APT-Analysis">Sandworm APT Analysis </a> - Threat intelligence research, attack reconstruction, MITRE ATT&CK mapping, and TTP analysis.  
 
 ### **Applied Cryptography**
-- **[AES Image Encryption Analysis](#)** – Complete analysis on AES Image Encryption.  
+-  <a href="https://github.com/DurgaRamireddy/AES-Image-Encryption-Analysis">AES Image Encryption Analysis </a> – Complete analysis on AES Image Encryption.  
 - **[Cryptanalysis Lab](#)** – Cipher attacks, cryptanalysis, and problem-solving in Python.  
 
 ### **OT / ICS Security**
