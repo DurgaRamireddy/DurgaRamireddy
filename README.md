@@ -2,31 +2,30 @@
 <a href="https://www.linkedin.com/in/durga-ramireddy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a **master’s graduate in Cybersecurity** with hands-on experience in SOC operations, threat intelligence, applied cryptography, and OT/ICS security. I build and analyze network/host security labs, investigate threats, and implement practical encryption solutions, sharing my work here to showcase real-world cybersecurity skills. I am eager to contribute to this fireld and especially aiming to join as a SOC Tier1 analyst.
+I am a Master's graduate in Cybersecurity with hands-on experience in SOC operations, threat intelligence, applied cryptography, and OT/ICS security. I build and analyze security labs focused on network monitoring, threat investigation, and encryption systems, and I share my work here to demonstrate practical cybersecurity skills. I am currently seeking an opportunity to begin my career as a SOC Tier 1 Analyst where I can contribute to security monitoring, threat detection, and incident investigation.
 ## 🛠 Skills & Tools
 
-- **SOC / Network Security:** Zeek, Suricata, Security Onion, Kibana, Packetbeat, PowerShell, IDS/IPS analysis  
+- **SOC / Network Security:** Zeek, Suricata, Security Onion, Kibana, PowerShell, IDS/IPS analysis  
 - **Threat Intelligence & APT Analysis:** MITRE ATT&CK, APT research, attack reconstruction, IOC analysis  
-- **Cryptography & Cybersecurity Labs:** AES, symmetric encryption, cryptanalysis, applied cryptography for images  
+- **Cryptography & Cybersecurity Labs:** AES encryption, symmetric encryption, cryptanalysis, applied cryptography for images  
 - **OT/ICS Security:** SCADA systems, Modbus attacks, LogixPro simulation, firewall design  
 - **Other Tools:** Wireshark, Kali Linux, Windows/Linux forensic analysis
 
 ## 📂 Projects
 
 ### **SOC & Network Analysis**
-- <a href="https://github.com/DurgaRamireddy/Security-Onion-Lab">Security Onion Lab </a> - Network monitoring, IDS setup, and pcap analysis using Zeek and Suricata.  
-- <a href="https://github.com/DurgaRamireddy/PowerShell-LotL-Investigation-Lab">PowerShell Lotl Investigaton Lab </a> - Host-based attack investigation, persistence analysis, and IOCs.  
-- <a href="https://github.com/DurgaRamireddy/Vulnerable-Web-Server-Traffic-Analysis-Lab">Vulnerable Web Server Traffic Analysis Lab </a> - Malicious traffic analysis and remediation recommendations using Kibana.  
+- <a href="https://github.com/DurgaRamireddy/Security-Onion-Lab">Security Onion Lab </a> - Network monitoring and IDS deployment using Zeek and Suricata to analyze network traffic and detect potential attacks. 
+- <a href="https://github.com/DurgaRamireddy/PowerShell-LotL-Investigation-Lab">PowerShell Lotl Investigaton Lab </a> - Host-based attack investigation focusing on persistence techniques and IOC identification.  
+- <a href="https://github.com/DurgaRamireddy/Vulnerable-Web-Server-Traffic-Analysis-Lab">Vulnerable Web Server Traffic Analysis Lab </a> - Malicious traffic investigation using Kibana and Packetbeat with remediation recommendations.
 
 ### **Threat Intelligence**
-- <a href="https://github.com/DurgaRamireddy/Sandworm-APT-Analysis">Sandworm APT Analysis </a> - Threat intelligence research, attack reconstruction, MITRE ATT&CK mapping, and TTP analysis.  
+- <a href="https://github.com/DurgaRamireddy/Sandworm-APT-Analysis">Sandworm APT Analysis </a> - Research and technical analysis of the Sandworm threat group, including attack reconstruction and MITRE ATT&CK mapping.
 
 ### **Applied Cryptography**
--  <a href="https://github.com/DurgaRamireddy/AES-Image-Encryption-Analysis">AES Image Encryption Analysis </a> – Complete analysis on AES Image Encryption.  
--  <a href="https://github.com/DurgaRamireddy/Classical-Cryptanalysis-Lab">Classical Cryptanalysis Lab </a> – Cipher attacks, cryptanalysis, and problem-solving in Python.  
-
+-  <a href="https://github.com/DurgaRamireddy/AES-Image-Encryption-Analysis">AES Image Encryption Analysis </a> – Implementation and analysis of AES encryption applied to digital images.
+-  <a href="https://github.com/DurgaRamireddy/Classical-Cryptanalysis-Lab">Classical Cryptanalysis Lab </a> – Analysis and decryption of classical ciphers including Caesar, Beaufort, and substitution ciphers.
 ### **OT / ICS Security**
-- <a href="https://github.com/DurgaRamireddy/SCADA-Modbus-Attack-Detection-with-Security-Onion">SCADA Modbus Attack Detection with Security Onion </a> – Modbus packet injection, network monitoring, and attack analysis using Security Onion/Kali Linux.  
+- <a href="https://github.com/DurgaRamireddy/SCADA-Modbus-Attack-Detection-with-Security-Onion">SCADA Modbus Attack Detection with Security Onion </a> – Simulation of Modbus packet injection attacks and detection using Security Onion monitoring tools.
 
   
 ## Certifications
