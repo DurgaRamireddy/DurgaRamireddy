@@ -23,7 +23,7 @@ I am a **master’s graduate in Cybersecurity** with hands-on experience in SOC 
 
 ### **Applied Cryptography**
 -  <a href="https://github.com/DurgaRamireddy/AES-Image-Encryption-Analysis">AES Image Encryption Analysis </a> – Complete analysis on AES Image Encryption.  
-- **[Cryptanalysis Lab](#)** – Cipher attacks, cryptanalysis, and problem-solving in Python.  
+-  <a href="https://github.com/DurgaRamireddy/Classical-Cryptanalysis-Lab">Classical Cryptanalysis Lab – Cipher attacks, cryptanalysis, and problem-solving in Python.  
 
 ### **OT / ICS Security**
 - **[SCADA Modbus Attack Lab](#)** – Modbus packet injection, network monitoring, and attack analysis using Security Onion/Kali Linux.  
