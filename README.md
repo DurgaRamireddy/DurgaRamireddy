@@ -1,4 +1,4 @@
-# Hello, I'm Durga!
+# Hey there, I'm Durga!
 <a href="https://www.linkedin.com/in/durga-ramireddy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
