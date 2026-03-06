@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/durga-ramireddy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Master's graduate in Cybersecurity with hands-on experience in SOC operations, threat intelligence, applied cryptography, and OT/ICS security. I build and analyze security labs focused on network monitoring, threat investigation, and encryption systems, and I share my work here to demonstrate practical cybersecurity skills. I am currently seeking an opportunity to begin my career as a SOC Tier 1 Analyst where I can contribute to security monitoring, threat detection, and incident investigation.
+I am a Master's graduate in Cybersecurity with hands-on experience in SOC operations, threat intelligence, applied cryptography, and OT/ICS security. I build and analyze security labs focused on network monitoring, threat investigation, and encryption systems, and I share my work here to demonstrate practical cybersecurity skills. I am currently seeking an opportunities to begin my career as a SOC Tier 1 Analyst where I can contribute to security monitoring, threat detection, and incident investigation.
 ## 🛠 Skills & Tools
 
 - **SOC / Network Security:** Zeek, Suricata, Security Onion, Kibana, PowerShell, IDS/IPS analysis  
