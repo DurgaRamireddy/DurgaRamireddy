@@ -14,6 +14,7 @@ I am a Master's graduate in Cybersecurity with hands-on experience in SOC operat
 ## 📂 Projects
 
 ### **SOC & Network Analysis**
+- - <a href="https://github.com/DurgaRamireddy/Home-SOC-Lab---Simulated-Intrusion-Privilege-Escalation-Investigation">Home SOC Lab – Simulated Intrusion & Privilege Escalation Investigation</a> – Simulated intrusion using Kali and Ubuntu to investigate SSH brute-force activity, analyze authentication logs, and detect privilege escalation through sudo misconfiguration.
 - <a href="https://github.com/DurgaRamireddy/Security-Onion-Lab">Security Onion Lab </a> - Network monitoring and IDS deployment using Zeek and Suricata to analyze network traffic and detect potential attacks. 
 - <a href="https://github.com/DurgaRamireddy/PowerShell-LotL-Investigation-Lab">PowerShell Lotl Investigaton Lab </a> - Host-based attack investigation focusing on persistence techniques and IOC identification.  
 - <a href="https://github.com/DurgaRamireddy/Vulnerable-Web-Server-Traffic-Analysis-Lab">Vulnerable Web Server Traffic Analysis Lab </a> - Malicious traffic investigation using Kibana and Packetbeat with remediation recommendations.
