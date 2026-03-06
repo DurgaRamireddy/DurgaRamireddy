@@ -23,7 +23,7 @@ I am a Master's graduate in Cybersecurity with hands-on experience in SOC operat
 - <a href="https://github.com/DurgaRamireddy/Sandworm-APT-Analysis">Sandworm APT Analysis </a> - Research and technical analysis of the Sandworm threat group, including attack reconstruction and MITRE ATT&CK mapping.
 
 ## **Security Risk & Governance**
-- 
+- <a href="https://github.com/DurgaRamireddy/Crown-Jewel-Security-Analysis---Insider-Data-Theft-at-Tesla">Crown Jewel Security Analysis </a> - Insider threat risk analysis of Tesla intellectual property using the Bowtie risk model to evaluate threats, consequences, and security controls.
 
 ### **Applied Cryptography**
 -  <a href="https://github.com/DurgaRamireddy/AES-Image-Encryption-Analysis">AES Image Encryption Analysis </a> – Implementation and analysis of AES encryption applied to digital images.
