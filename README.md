@@ -14,6 +14,7 @@ I am a Master's graduate in Cybersecurity with hands-on experience in SOC operat
 ## 📂 Projects
 
 ### **SOC & Network Analysis**
+- <a href="https://github.com/DurgaRamireddy/Splunk-HOME-SOC-Detection-Lab---End-to-End-Alert-Lifecycle">Splunk HOME SOC Detection Lab - End-to-End Alert Lifecycle</a> - Deployed Splunk Enterprise on Ubuntu as a SIEM, engineered a Windows log forwarding pipeline via HTTP Event Collector (HEC), simulated a multi-stage attack chain from Kali Linux (brute force + PowerShell persistence), detected all attack stages using SPL queries, and documented findings in a formal incident report mapped to MITRE ATT&CK (T1110, T1078, T1059.001, T1547).
 - <a href="https://github.com/DurgaRamireddy/Home-SOC-Lab---Simulated-Intrusion-Privilege-Escalation-Investigation">Home SOC Lab - Simulated Intrusion & Privilege Escalation Investigation</a> – Simulated intrusion using Kali and Ubuntu to investigate SSH brute-force activity, analyze authentication logs, and detect privilege escalation through sudo misconfiguration.
 - <a href="https://github.com/DurgaRamireddy/Security-Onion-Lab">Security Onion Lab </a> - Network monitoring and IDS deployment using Zeek and Suricata to analyze network traffic and detect potential attacks. 
 - <a href="https://github.com/DurgaRamireddy/PowerShell-LotL-Investigation-Lab">PowerShell Lotl Investigaton Lab </a> - Host-based attack investigation focusing on persistence techniques and IOC identification.  
