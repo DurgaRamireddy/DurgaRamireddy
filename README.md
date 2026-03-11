@@ -5,7 +5,7 @@
 I am a Master's graduate in Cybersecurity with hands-on experience in SOC operations, threat intelligence, applied cryptography, and OT/ICS security. I build and analyze security labs focused on network monitoring, threat investigation, and encryption systems, and I share my work here to demonstrate practical cybersecurity skills. I am currently seeking an opportunities to begin my career as a SOC Analyst where I can contribute to security monitoring, threat detection, and incident investigation.
 ## 🛠 Skills & Tools
 
-- **SOC / Network Security:** Zeek, Suricata, Security Onion, Kibana, PowerShell, IDS/IPS analysis  
+- **SOC / Network Security:** Zeek, Suricata, Security Onion, Kibana, PowerShell, IDS/IPS analysis, PowerShell, Splunk SIEM, HTTP Event Collector (HEC), SPL (Search Processing Language), Windows Event Log Analysis  
 - **Threat Intelligence & APT Analysis:** MITRE ATT&CK, APT research, attack reconstruction, IOC analysis  
 - **Cryptography & Cybersecurity Labs:** AES encryption, symmetric encryption, cryptanalysis, applied cryptography for images  
 - **OT/ICS Security:** SCADA systems, Modbus attacks, LogixPro simulation, firewall design  
