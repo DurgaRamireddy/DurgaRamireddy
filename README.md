@@ -5,21 +5,22 @@
 I am a Master's graduate student in Cybersecurity with hands-on experience in SOC operations, threat intelligence, applied cryptography, and OT/ICS security. I build and analyze security labs focused on network monitoring, threat investigation, and encryption systems, and I share my work here to demonstrate practical cybersecurity skills. I am currently seeking an opportunities to begin my career as a SOC Analyst where I can contribute to security monitoring, threat detection, and incident investigation.
 ## 🛠 Skills & Tools
 
-- **SIEM & Threat Detection:** Splunk Enterprise, SPL, HTTP Event Collector (HEC), Security Onion, Kibana, Zeek, Suricata, IDS/IPS  
-- **Incident Response & Forensics:** Windows Event Log Analysis, Linux Log Analysis, PowerShell Forensics, Packetbeat, IOC Extraction, Attack Timeline Reconstruction  
+- **SIEM & Threat Detection:** Splunk Enterprise, SPL, HTTP Event Collector (HEC), Security Onion, Kibana, Zeek, Suricata, IDS/IPS, Microsoft Defender for Business, Cloud EDR, Incident Triage, Alert Correlation  
+- **Incident Response & Forensics:** Windows Event Log Analysis, Linux Log Analysis, PowerShell Forensics, Packetbeat, IOC Extraction, Attack Timeline Reconstruction, EDR Detection Gap Analysis, Incident Graph Analysis, C2 Detection  
 - **Threat Intelligence:** MITRE ATT&CK (Enterprise + ICS), APT Research, Attack Reconstruction, Threat Reporting
 - **Network & Endpoint Security:** Wireshark, Nmap, Packet Analysis, Firewall Concepts, TCP/IP  
 - **OT / ICS Security:** SCADA Systems, Modbus Protocol, LogixPro, Security Onion for OT
-- **Offensive Tools (Lab Use):** Kali Linux, Hydra, GoPhish, Metasploit concepts
+- **Offensive Tools (Lab Use):** Kali Linux, Hydra, GoPhish, Metasploit concepts, MITRE Caldera, SandCat Agent, Adversary Emulation
 - **Cryptography:** AES, Classical Cipher Analysis, CrypTool 2, OpenSSL
 - **Cloud & Platforms:** AWS (Cloud Practitioner), Ubuntu, Windows 10, VMware
 
 ## 📂 Projects
 
 ### **SOC & Network Analysis**
+- <a href="https://github.com/DurgaRamireddy/Enterprise-Threat-Detection-Lab---Caldera-C2-vs-Microsoft-Defender">Enterprise Threat Detection Lab - Caldera C2 vs Microsoft Defender</a> - Built an enterprise Active Directory lab (Windows Server 2022, domain-joined Windows 10, MITRE Caldera C2 on Kali Linux), executed three adversary profiles mapped to MITRE ATT&CK, and triaged live incidents in Microsoft Defender for Business. Identified systematic detection gaps in SMB-tier EDR for post-compromise staging techniques (T1074, T1560, T1083).
 - <a href="https://github.com/DurgaRamireddy/Splunk-HOME-SOC-Detection-Lab---End-to-End-Alert-Lifecycle">Splunk HOME SOC Detection Lab - End-to-End Alert Lifecycle</a> - Deployed Splunk Enterprise on Ubuntu as a SIEM, engineered a Windows log forwarding pipeline via HTTP Event Collector (HEC), simulated a multi-stage attack chain from Kali Linux (brute force + PowerShell persistence), detected all attack stages using SPL queries, and documented findings in a formal incident report mapped to MITRE ATT&CK (T1110, T1078, T1059.001, T1547).
 - <a href="https://github.com/DurgaRamireddy/Phishing-Simulation-SOC-Investigation-Lab">Phishing Simulation & SOC Investigation Lab</a> -  Deployed GoPhish on Ubuntu to run a credential harvesting campaign against a Windows victim, captured credentials via a spoofed IT portal, and investigated the full attack chain in Splunk using EventID 4688 parent-child process analysis. Mapped to MITRE ATT&CK T1566.002, T1204.001, T1078, T1056.003.
-- <a href="https://github.com/DurgaRamireddy/Home-SOC-Lab---Simulated-Intrusion-Privilege-Escalation-Investigation">Home SOC Lab - Simulated Intrusion & Privilege Escalation Investigation</a> – Simulated intrusion using Kali and Ubuntu to investigate SSH brute-force activity, analyze authentication logs, and detect privilege escalation through sudo misconfiguration.
+- <a href="https://github.com/DurgaRamireddy/Home-SOC-Lab---Simulated-Intrusion-Privilege-Escalation-Investigation">Home SOC Lab - Simulated Intrusion & Privilege Escalation Investigation</a> - Simulated intrusion using Kali and Ubuntu to investigate SSH brute-force activity, analyze authentication logs, and detect privilege escalation through sudo misconfiguration.
 - <a href="https://github.com/DurgaRamireddy/Security-Onion-Lab">Security Onion Lab </a> - Network monitoring and IDS deployment using Zeek and Suricata to analyze network traffic and detect potential attacks. 
 - <a href="https://github.com/DurgaRamireddy/PowerShell-LotL-Investigation-Lab">PowerShell Lotl Investigaton Lab </a> - Host-based attack investigation focusing on persistence techniques and IOC identification.  
 - <a href="https://github.com/DurgaRamireddy/Vulnerable-Web-Server-Traffic-Analysis-Lab">Vulnerable Web Server Traffic Analysis Lab </a> - Malicious traffic investigation using Kibana and Packetbeat with remediation recommendations.
