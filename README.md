@@ -32,10 +32,10 @@ I am a Master's graduate student in Cybersecurity with hands-on experience in SO
 - <a href="https://github.com/DurgaRamireddy/Crown-Jewel-Security-Analysis---Insider-Data-Theft-at-Tesla">Crown Jewel Security Analysis </a> - Insider threat risk analysis of Tesla intellectual property using the Bowtie risk model to evaluate threats, consequences, and security controls.
 
 ### **Applied Cryptography**
--  <a href="https://github.com/DurgaRamireddy/AES-Image-Encryption-Analysis">AES Image Encryption Analysis </a> – Implementation and analysis of AES encryption applied to digital images.
--  <a href="https://github.com/DurgaRamireddy/Classical-Cryptanalysis-Lab">Classical Cryptanalysis Lab </a> – Analysis and decryption of classical ciphers including Caesar, Beaufort, and substitution ciphers.
+-  <a href="https://github.com/DurgaRamireddy/AES-Image-Encryption-Analysis">AES Image Encryption Analysis </a> - Implementation and analysis of AES encryption applied to digital images.
+-  <a href="https://github.com/DurgaRamireddy/Classical-Cryptanalysis-Lab">Classical Cryptanalysis Lab </a> - Analysis and decryption of classical ciphers including Caesar, Beaufort, and substitution ciphers.
 ### **OT / ICS Security**
-- <a href="https://github.com/DurgaRamireddy/SCADA-Modbus-Attack-Detection-with-Security-Onion">SCADA Modbus Attack Detection with Security Onion </a> – Simulation of Modbus packet injection attacks and detection using Security Onion monitoring tools.
+- <a href="https://github.com/DurgaRamireddy/SCADA-Modbus-Attack-Detection-with-Security-Onion">SCADA Modbus Attack Detection with Security Onion </a> - Simulation of Modbus packet injection attacks and detection using Security Onion monitoring tools.
 
   
 ## Certifications
